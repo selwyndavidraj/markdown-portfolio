@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+*Below are my faviourite technologies*
+* Google Cloud
+* Python
+* Kubernetes
+  * GKE
+* Node JS
